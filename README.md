@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the PositivePedagogyHE website
+
+The PositivePedagogyHE project is a cross-disciplinary collaboration between researchers in Northern Ireland and North East England.
 
 You can use the [editor on GitHub](https://github.com/PositivePedagogyHE/project1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
